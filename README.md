@@ -1,6 +1,6 @@
 # <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30" /> Hi, I’m Letícia!
 
-<img height="15" src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif /> I’m from Brazil
+🌎 I’m from Brazil
 
 📖 I'm studying Systems Analysis and Developmen
 
