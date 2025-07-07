@@ -18,8 +18,8 @@
 <code> <img height="20" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> </code>
 <code> <img height="20" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" /> </code>
 <code> <img height="20" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> </code>
-<img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" >
+<code> <img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" > </code>
 
-<img height="20" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" >
+<code> <img height="20" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" > </code>
 
-### Thanks for visiting. Let's connect! <img height="25" src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif /> <a href="https://www.linkedin.com/in/leticiadallosto/" target="_blank"> <img height="20" src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg /> </a>
+### Thanks for visiting. Let's connect! <code> <img height="25" src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif /> <a href="https://www.linkedin.com/in/leticiadallosto/" target="_blank"> <img height="20" src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg /> </a> </code>
