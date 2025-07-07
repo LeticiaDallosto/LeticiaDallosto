@@ -2,7 +2,7 @@
 
 🌎 I’m from Brazil
 
-📖 I'm studying Systems Analysis and Developmen
+📖 I'm studying Systems Analysis and Development
 
 🧠 I'm so excited learning about programming 
 
